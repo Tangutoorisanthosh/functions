@@ -5,7 +5,6 @@ def nestsum(input_num1,input_num2):
         for j in input_num2:
             sum+=j
         return sum
-        break
 num1=2,3,5,6,3
 num2=5,6,3,6,3
 print(nestsum(num1,num2))
